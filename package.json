@@ -1,0 +1,23 @@
+{
+  "name": "practica-web-services",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.x"
+  },
+  "description": "Crud Lista de Tareas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "graphql",
+    "express",
+    "heroku"
+  ],
+  "author": "Victor Hurtado",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

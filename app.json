@@ -1,0 +1,6 @@
+  
+{
+  "name": "practica-web-services",
+  "description": "Crud Lista de Tareas",
+  "keywords": ["node", "graphql", "express","heroku"]
+}
